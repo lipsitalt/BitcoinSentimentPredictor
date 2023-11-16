@@ -24,4 +24,14 @@ Traditional models may offer generic actions without considering the reliability
 - **Risk Mitigation:** By integrating sentiment analysis, I strive to reduce the inherent risk associated with uncertain predictions.
 - Ready to take your cryptocurrency investments to the next level? Give the Bitcoin Sentiment Predictor a try and make decisions backed by data and sentiment analysis.
 
-Note: Further details, updates, and the progress of the project will be provided as it evolves.
+## Data Sources
+### Bitcoin Stock Data
+I have used Bitcoin Stock Data obtained from the [Bitcoin Historical Data](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data) dataset on Kaggle. The dataset spans from January 1, 2012, to March 31, 2021, and is approximately 317.53 MB in size.
+
+### Bitcoin Tweet Data
+The Bitcoin Tweet Data used in this project is sourced from the [Bitcoin Tweets 20160101 to 20190329](https://www.kaggle.com/datasets/alaix14/bitcoin-tweets-20160101-to-20190329) dataset on Kaggle. This dataset covers the period from January 1, 2016, to March 29, 2019, and has a size of about 4.19 GB.
+
+### Note:
+- Make sure to review and adhere to the licensing terms and conditions provided by the respective dataset owners.
+
+- Further details, updates, and the progress of the project will be provided as it evolves.
