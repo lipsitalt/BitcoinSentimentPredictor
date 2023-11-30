@@ -32,6 +32,4 @@ I have used Bitcoin Stock Data obtained from the [Bitcoin Historical Data](https
 The Bitcoin Tweet Data used in this project is sourced from the [Bitcoin Tweets 20160101 to 20190329](https://www.kaggle.com/datasets/alaix14/bitcoin-tweets-20160101-to-20190329) dataset on Kaggle. This dataset covers the period from January 1, 2016, to March 29, 2019, and has a size of about 4.19 GB.
 
 ### Note:
-- Make sure to review and adhere to the licensing terms and conditions provided by the respective dataset owners.
-
 - Further details, updates, and the progress of the project will be provided as it evolves.
